@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>jwr_analogclockdemocomponentlibrary_0f6b1</Name>
+  <AppVersion>2021-08-20T01:26:03Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.21071.27.0</CreatedByClientVersion>
+  <MinClientVersion>3.21071.27.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"640","sienaVersion":"cc58739b-7421-49ca-9c40-982d09e08dbb","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","publisherVersion":"3.21071.27","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(251, 101, 60, 255)</BackgroundColor>
+  <DisplayName>Analog Clock Demo Component Library</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[{"appComponentName":"ea01c0be617b4063aa3a7126b5095dcc","displayName":"cmpAnalogClock","appName":"337edaa9-a1dd-428e-bbd5-8dd045b8b973","appVersion":"2021-08-20T01:26:03Z","appDisplayName":"Analog Clock Demo Component Library","environmentName":"c0bea601-a15d-4644-b4b9-3c983f6747d5","owner":{"id":"77c47873-b120-4797-a9dd-f339cf1e4cb6","displayName":"Admin","email":"admin@willisrose.onmicrosoft.com","type":"User","tenantId":"8d8f1ac7-6052-4684-82c6-b61d6ab5dd7e","userPrincipalName":"admin@willisrose.onmicrosoft.com"},"allowCustomization":true,"createdOn":"2021-08-19T23:58:04.193Z","lastModifiedOn":"2021-08-20T01:25:23.99Z","connectionReferences":{}}]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>1</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/jwr_analogclockdemocomponentlibrary_0f6b1_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/jwr_analogclockdemocomponentlibrary_0f6b1_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
